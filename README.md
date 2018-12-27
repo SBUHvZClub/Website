@@ -1,5 +1,2 @@
-"# Website" 
-"# Website" 
-#Website
-#Website
-#Website
+This is a recreation of the SBU HvZ website using node.js
+
